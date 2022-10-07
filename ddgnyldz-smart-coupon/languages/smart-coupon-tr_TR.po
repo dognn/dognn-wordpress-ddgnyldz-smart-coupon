@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ddgnyldz Smart Coupon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-07 11:18+0000\n"
+"PO-Revision-Date: 2022-06-07 13:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Türkçe\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: smart-coupon"
+
+#: inc/customizer.php:94
+#| msgid "Activete"
+msgid "Activate"
+msgstr "Aktif"
+
+#: inc/customizer.php:112
+msgid "Coupon Name"
+msgstr "Kupon Adı"
+
+#: inc/customizer.php:85
+msgid "Coupon Settings"
+msgstr "Kupon Ayarları"
+
+#. Name of the plugin
+msgid "Ddgnyldz Smart Coupon"
+msgstr "Ddgnyldz Akıllı Kupon"
+
+#: inc/customizer.php:175
+#| msgid ""
+#| "when discount applied customers will see the coupon slogan on cart total "
+#| "section"
+msgid ""
+"Discount applied customers will see the coupon slogan on cart total section"
+msgstr ""
+"İndirim uygulanan müşteriler, sepet toplamı bölümünde kupon sloganını "
+"göreceklerdir."
+
+#: inc/customizer.php:138
+msgid "Discount will apply automaticly for less cheaper product in cart"
+msgstr ""
+"İndirim, sepette ki en ucuz olan ürün için otomatik olarak uygulanacaktır."
+
+#. Author of the plugin
+msgid "Dogan Yildz"
+msgstr "Doğan Yıldız"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/doğan-yıldız-9a2a8223a/"
+msgstr "https://www.linkedin.com/in/doğan-yıldız-9a2a8223a/"
+
+#: inc/customizer.php:64
+msgid "Install and Activate Woocommerce Plugin "
+msgstr "Woocommerce eklentisini yükleyin ve aktif edin. "
+
+#: inc/customizer.php:102
+msgid "Set Active or Deactive ( default : deactive )"
+msgstr ""
+"İndirimi buradan aktif veya pasif hala getirebilirsiniz. ( varsayılan : "
+"pasif )"
+
+#: inc/customizer.php:129
+msgid "Set Coupon Discount Percentage ( % )"
+msgstr "Kuponun indirim yüzdesini buradan ayarlayabilirsiniz."
+
+#: inc/customizer.php:168
+msgid "Set Coupon Slogan"
+msgstr "Kupon sloganını buradan ayarlayabilirsiniz."
+
+#: inc/customizer.php:158
+msgid "Set minimum product count for apply discount in cart"
+msgstr "İndirimin uygulanması için gerekli sepetteki  minimum ürün sayısı"
+
+#: inc/customizer.php:119
+msgid ""
+"Set your coupon name ( when discount applied customers will see the name on "
+"cart total section )"
+msgstr ""
+"Kupon adınızı ayarlayın ( indirim uygulandığında müşteriler, sepet ve ödeme "
+"toplamı bölümünde görecekler )"
+
+#: inc/customizer.php:40 inc/customizer.php:41
+msgid "Smart Coupon"
+msgstr "Akıllı Kupon"
+
+#: inc/customizer.php:55
+msgid "Smart Coupon Settings"
+msgstr "Akıllı Kupon Ayarları"
+
+#: inc/customizer.php:149
+msgid "When Coupon Active Product Count"
+msgstr "Kuponun uygulanması için gerekli olan minimum ürün sayısı"
+
+#: inc/customizer.php:185
+msgid "You can manage your setting from here"
+msgstr "Kupon ayarlarını buradan yönetebilirsiniz."
+
+#. Description of the plugin
+msgid "You can set smart coupon for customers with Woocommerce."
+msgstr "WooCommerce ile müşteriler için akıllı kupon ayarlayabilirsiniz."

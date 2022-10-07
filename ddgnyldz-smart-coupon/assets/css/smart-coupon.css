@@ -1,0 +1,61 @@
+.coupon-input-area {
+    display: grid;
+    width: 100%;
+}
+    .coupon-input-area input[type="text"] {
+    display: grid;
+    width: 50%;
+}
+    .coupon-input-area input[type="number"] {
+    display: grid;
+    width: max-content;
+}
+    .smart-coupon-container {
+    background-color: #f8f9fa;
+    padding: 10px;
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+    align-items: center;
+}
+.smart-coupon-right img {
+    width: 100%;
+}
+
+    .smart-coupon-left {
+    width: 50%;
+    color: #141848;
+}
+    .smart-coupon-right {
+        width: 50%;
+}
+.select2-container{
+    width: 30em !important;
+}
+h1.smart-coupon-h1 {
+    color: #019cb5 ;
+}
+.smart-coupon-left h2 {
+    color: #141848;
+}
+.smart-coupon-left table th {
+    color: #046878;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #00dcffc4  !important;
+    color: #05071e;
+    border: 2px dotted #89510b !important;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+
+   background-color: #00dcffc4 !important;
+   color: #05071e !important;
+   opacity: 1;
+
+}
+input{
+    border-color: #046878 !important;
+}
+
+

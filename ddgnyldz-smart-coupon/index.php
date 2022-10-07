@@ -1,0 +1,2 @@
+<?php
+// Mustafa Kemal Atatürk

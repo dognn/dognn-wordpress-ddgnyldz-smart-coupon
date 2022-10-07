@@ -1,0 +1,98 @@
+# Copyright (C) 2022 ddgnyldz
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ddgnyldz Smart Coupon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-07 13:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: smart-coupon\n"
+"Language: "
+
+#: inc/customizer.php:94
+msgid "Activate"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Coupon Name"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Coupon Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ddgnyldz Smart Coupon"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid ""
+"Discount applied customers will see the coupon slogan on cart total section"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Discount will apply automaticly for less cheaper product in cart"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dogan Yildz"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/doğan-yıldız-9a2a8223a/"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Install and Activate Woocommerce Plugin "
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Set Active or Deactive ( default : deactive )"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Set Coupon Discount Percentage ( % )"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Set Coupon Slogan"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Set minimum product count for apply discount in cart"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid ""
+"Set your coupon name ( when discount applied customers will see the name on "
+"cart total section )"
+msgstr ""
+
+#: inc/customizer.php:40 inc/customizer.php:41
+msgid "Smart Coupon"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Smart Coupon Settings"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "When Coupon Active Product Count"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "You can manage your setting from here"
+msgstr ""
+
+#. Description of the plugin
+msgid "You can set smart coupon for customers with Woocommerce."
+msgstr ""
