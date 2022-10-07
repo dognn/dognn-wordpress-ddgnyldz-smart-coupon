@@ -1,5 +1,5 @@
 # dognn/wordpress-ddgnyldz-smart-coupon
-
+# Smart Coupon
 The type of campaign you can do with this plugin;
 In case there is a number of products in the basket at the rate you specify;
 
@@ -10,6 +10,7 @@ In case there is a number of products in the basket at the rate you specify;
 You can specify the Campaign name that will appear in the payment area and the cart total area at the time of order.
 You can instantly activate/deactivate with a single button.
 
+# Smart Coupon AI
 Another type of campaign you will do with this plugin;
 Smart coupon;
 Allows the customer to choose the product to be discounted.
