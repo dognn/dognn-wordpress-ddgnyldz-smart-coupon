@@ -3,9 +3,9 @@
 The type of campaign you can do with this plugin;
 In case there is a number of products in the basket at the rate you specify;
 
-1- Applies a discount to the most expensive of the products in the basket at the rate you specify.
-2- Applies a discount to the cheapest product in the basket at the rate you specify.
-3- It applies a discount to the total amount of the basket at the rate you set.
+* Applies a discount to the most expensive of the products in the basket at the rate you specify.
+* Applies a discount to the cheapest product in the basket at the rate you specify.
+* It applies a discount to the total amount of the basket at the rate you set.
 
 You can specify the Campaign name that will appear in the payment area and the cart total area at the time of order.
 You can instantly activate/deactivate with a single button.
